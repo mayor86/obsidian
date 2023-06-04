@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "73f29c08d3c89034",
+    "type": "split",
+    "children": [
+      {
+        "id": "512d667d4d77b3f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95980ed8e9d377e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roomer-Control дефекты и услуги.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02eb09c1fabe6cbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb755b93ad51843a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbccf80d6e2cc10c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "58a155b8318f4485",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b05d8d1eddbbd96f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236.5
+  },
+  "right": {
+    "id": "aeeb40d78e965813",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6469c76fb180175",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5850d626d8f5ffb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Roomer-Control дефекты и услуги.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7894259e409c0787",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Roomer-Control дефекты и услуги.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "50bfda975c6c00f9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b5e05a674612f91b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Roomer-Control дефекты и услуги.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "95980ed8e9d377e4",
+  "lastOpenFiles": [
+    "Доступ к БД для сотрудников.md",
+    "Правила работы в компании. Пример..md",
+    "Apache Kafka.md",
+    "Корпоративная архитектура",
+    "Собес/Проведение интервью.md",
+    "S.Стройка/Продукты.md",
+    "Pytest.md",
+    "Собес/Команда.md",
+    "Собес/Вопросы к работодателю, личные цели.md",
+    "files/Pasted image 20230531175009.png",
+    "files/Pasted image 20230531171120.png",
+    "S.Стройка/S.Gantt.md",
+    "Собес/OKR.md",
+    "files/Pasted image 20230531165045.png",
+    "SLA.md",
+    "Postgresql.md",
+    "files/CSA ARCH DEMO (6).jpg",
+    "files/CSA ARCH DEMO (7).jpg",
+    "files/Снимок экрана 2023-05-25 в 08.55.27.png",
+    "S.Стройка",
+    "files/Снимок экрана 2023-05-31 в 08.52.25.png",
+    "files/Снимок экрана 2023-05-31 в 08.49.42.png",
+    "Roomer-Control дефекты и услуги.md",
+    "files/Pasted image 20230522105638.png",
+    "files/Pasted image 20230518181400.png",
+    "Pasted image 20230515144459.png].md",
+    "files",
+    "Без названия.canvas",
+    "Собес"
+  ]
+}
