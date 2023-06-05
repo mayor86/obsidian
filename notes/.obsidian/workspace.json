@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roomer-Control дефекты и услуги.md",
-                "mode": "source",
+                "file": "Собес/Личный бренд.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roomer-Control дефекты и услуги.md",
+                "file": "Собес/Личный бренд.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roomer-Control дефекты и услуги.md",
+                "file": "Собес/Личный бренд.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roomer-Control дефекты и услуги.md"
+                "file": "Собес/Личный бренд.md"
               }
             }
           }
@@ -148,13 +148,20 @@
   },
   "active": "95980ed8e9d377e4",
   "lastOpenFiles": [
+    "files/Снимок экрана 2023-06-05 в 09.49.23 1.png",
+    "files/Снимок экрана 2023-06-05 в 09.45.07.png",
+    "files/Снимок экрана 2023-06-05 в 09.49.23.png",
+    "Pytest.md",
+    "Собес/Личный бренд.md",
+    "Собес/Личный бренд",
+    "SLA.md",
+    "Roomer-Control дефекты и услуги.md",
     "Доступ к БД для сотрудников.md",
     "Правила работы в компании. Пример..md",
     "Apache Kafka.md",
     "Корпоративная архитектура",
     "Собес/Проведение интервью.md",
     "S.Стройка/Продукты.md",
-    "Pytest.md",
     "Собес/Команда.md",
     "Собес/Вопросы к работодателю, личные цели.md",
     "files/Pasted image 20230531175009.png",
@@ -162,7 +169,6 @@
     "S.Стройка/S.Gantt.md",
     "Собес/OKR.md",
     "files/Pasted image 20230531165045.png",
-    "SLA.md",
     "Postgresql.md",
     "files/CSA ARCH DEMO (6).jpg",
     "files/CSA ARCH DEMO (7).jpg",
@@ -170,9 +176,6 @@
     "S.Стройка",
     "files/Снимок экрана 2023-05-31 в 08.52.25.png",
     "files/Снимок экрана 2023-05-31 в 08.49.42.png",
-    "Roomer-Control дефекты и услуги.md",
-    "files/Pasted image 20230522105638.png",
-    "files/Pasted image 20230518181400.png",
     "Pasted image 20230515144459.png].md",
     "files",
     "Без названия.canvas",
