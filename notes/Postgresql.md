@@ -8,7 +8,7 @@ NOINHERIT
 LOGIN
 NOREPLICATION
 NOBYPASSRLS
-ENCRYPTED PASSWORD 'Cnhjqrf2023';
+ENCRYPTED PASSWORD 'Cnhjqrf2023'
 CONNECTION LIMIT 3; -- Максимальное количество коннектов для пользователя
 ```
 ### Permissions
