@@ -1,0 +1,8 @@
+CLS
+FID
+LCP
+APDEX приложений
+mean_api_response_time
+sentry_issues_count
+coverage
+application_stability
