@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Чек-лист 2й этап Махмудов Мовлади.md",
+                "file": "Чек-листы по собеседованиям/Чек-лист 2й этап Махмудов Мовлади.md",
                 "mode": "source",
                 "source": false
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Postgresql.md",
+                "file": "Чек-листы по собеседованиям/Чек-лист 2й этап Мамедов Эльман.md",
                 "mode": "source",
                 "source": false
               }
@@ -253,7 +253,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "postgre",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -270,8 +270,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -291,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Postgresql.md",
+                "file": "Чек-листы по собеседованиям/Чек-лист 2й этап Мамедов Эльман.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Postgresql.md",
+                "file": "Чек-листы по собеседованиям/Чек-лист 2й этап Мамедов Эльман.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -331,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Postgresql.md"
+                "file": "Чек-листы по собеседованиям/Чек-лист 2й этап Мамедов Эльман.md"
               }
             }
           }
@@ -354,7 +353,21 @@
   },
   "active": "f6ab6511990ec838",
   "lastOpenFiles": [
+    "Чек-листы по собеседованиям/Чек-лист 2й этап Аяпберген Нурымжан.md",
+    "Чек-листы по собеседованиям/Чек-лист 2й этап Волков Павел.md",
+    "Чек-листы по собеседованиям/Чек-лист 2й этап Махмудов Мовлади.md",
+    "Чек-листы по собеседованиям/Чек-лист 2й этап Пеунов Виталий.md",
+    "Чек-листы по собеседованиям/Чек-лист 2й этап Ахмедов Рамазан.md",
+    "Дима Оторов тимлид.md",
+    "Кодю/readme.md",
+    "files/Pasted image 20230919184135.png",
+    "Кодю/Чек-лист.md",
     "Проект переезда PostgreSQL.md",
+    "Postgresql.md",
+    "Camunda BPM.md",
+    "files/Pasted image 20230917200933.png",
+    "files/Pasted image 20230917185023.png",
+    "Кодю",
     "Микросервис \"Помещение\".md",
     "Доступ к БД для сотрудников.md",
     "Оттимизация фронтенда.md",
@@ -363,11 +376,9 @@
     "files/Pasted image 20230916224421.png",
     "files/Pasted image 20230916224318.png",
     "Собес/Майоров Виталий_Резюме.md",
-    "Чек-листы по собеседованиям/Чек-лист 2й этап Волков Павел.md",
     "Без названия 1.md",
     "files/Pasted image 20230914154446.png",
     "Meetup Performace Review Хинты.md",
-    "Дима Оторов тимлид.md",
     "Собес/Требования к CTO, примеры.md",
     "Собес/Резюме.md",
     "Собес/OKR.md",
@@ -376,14 +387,6 @@
     "Собес/Команда.md",
     "Собес/Вопросы к работодателю, личные цели.md",
     "S.Стройка/Продукты.md",
-    "S.Стройка/S.Gantt.md",
-    "S.Стройка/Полезные ссылки.md",
-    "Camunda BPM.md",
-    "Технологии.md",
-    "Чек-лист 2й этап Махмудов Мовлади.md",
-    "10D Бюджет 2024.md",
-    "Без названия.md",
-    "Рашитов Тимур.md",
     "files/EPAM-113071294-130923-1350-204.pdf",
     "files/Pasted image 20230913133647.png",
     "files/Pasted image 20230913133615.png",
@@ -392,14 +395,10 @@
     "Метрики",
     "Без названия.canvas",
     "Чек-листы по собеседованиям",
-    "files/Pasted image 20230912143823.png",
-    "files/Pasted image 20230912143616.png",
-    "files/Pasted image 20230912122403.png",
     "Самолет 2023",
     "files/Manager onboarding checklist — AvitoTech template.pdf",
     "files/~$Самолет_BE_Матрица компетенции.xlsx",
     "files/Самолет_BE_Матрица компетенции.xlsx",
-    "files/Майоров Виталий_Руководитель разработки.docx",
-    "files/Майоров Виталий_ИТ-Архитектор.docx"
+    "files/Майоров Виталий_Руководитель разработки.docx"
   ]
 }
