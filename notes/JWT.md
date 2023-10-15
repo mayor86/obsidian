@@ -1,3 +1,6 @@
+https://rocketchat.samolet.ru/channel/Platform_SaaS?msg=8kjXvif9Ecdzs3t5L
+https://wiki.samoletgroup.ru/pages/viewpage.action?pageId=155463347
+
 Хорошая заметка (https://gist.github.com/zmts/802dc9c3510d79fd40f9dc38a12bccfc), чтобы вникнуть в token-based authentication.
 
 Начинается всё банально — чем аутентификация отличается от авторизации. Дальше интереснее — access и refresh-токены. Что это, как устроены, почему они в паре и какое имеют отношение к авторизации.

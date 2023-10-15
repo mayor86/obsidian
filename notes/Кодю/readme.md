@@ -41,3 +41,9 @@ admin.site.register(Task)
 ```
 Тут регистрируется модель Task
 ![[Pasted image 20230919184135.png|350]]
+## Postgres в Docker
+1. docker pull postgres (скачиваем образ)
+2. docker run --name planner-16.0 -p 5432:5432 -e POSTGRES_PASSWORD=Siebel811 -d postgres:16.0
+(Запускаем новый образ с паролем, переименовываем его в planner, выставляем порт наружу)
+![[Pasted image 20230925204832.png]]
+3. Установка pip install psycopg2-binary

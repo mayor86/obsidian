@@ -222,9 +222,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c1f238e1ccad002b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Кодю/Чек-лист.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eea6cac61f13c3cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Автоматизированное тестирование.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48a032e7a9019f6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Красивый терминал.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -254,7 +290,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -290,7 +326,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Чек-листы по собеседованиям/Чек-лист 2й этап Мамедов Эльман.md",
+                "file": "Красивый терминал.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +343,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Чек-листы по собеседованиям/Чек-лист 2й этап Мамедов Эльман.md",
+                "file": "Красивый терминал.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +366,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Чек-листы по собеседованиям/Чек-лист 2й этап Мамедов Эльман.md"
+                "file": "Красивый терминал.md"
+              }
+            }
+          },
+          {
+            "id": "000112458f8283f6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -351,47 +397,47 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "f6ab6511990ec838",
+  "active": "48a032e7a9019f6b",
   "lastOpenFiles": [
+    "Автоматизированное тестирование.md",
+    "Красивый терминал.md",
+    "Собес/Майоров Виталий_Резюме.md",
+    "Собес/Резюме.md",
+    "Удаленные услуги Roomer-Control.md",
+    "files/Pasted image 20231014204002.png",
+    "Проект переезда PostgreSQL.md",
+    "JWT.md",
+    "files/Pasted image 20231003153004.png",
+    "files/Pasted image 20231003152938.png",
+    "Чек-листы по собеседованиям/Чек-лист 2й этап Шинов Оскар.md",
+    "Чек-листы по собеседованиям/Чек-лист 2й этап Ахмедов Рамазан.md",
+    "Самолет собес.md",
+    "Собес/Вопросы к работодателю, личные цели.md",
+    "Meetup Performace Review Хинты.md",
+    "Собес/OKR.md",
+    "Без названия 2.md",
+    "Performance.md",
+    "files/Pasted image 20230928113108.png",
+    "Кодю/Чек-лист.md",
+    "Кодю/readme.md",
+    "files/Pasted image 20230925204832.png",
+    "files/Pasted image 20230925203928.png",
+    "files/Pasted image 20230925195913.png",
+    "files/Pasted image 20230925122904.png",
+    "files/Pasted image 20230925122202.png",
+    "Чек-листы по собеседованиям/Чек-лист 2й этап Мамедов Эльман.md",
     "Чек-листы по собеседованиям/Чек-лист 2й этап Аяпберген Нурымжан.md",
     "Чек-листы по собеседованиям/Чек-лист 2й этап Волков Павел.md",
     "Чек-листы по собеседованиям/Чек-лист 2й этап Махмудов Мовлади.md",
     "Чек-листы по собеседованиям/Чек-лист 2й этап Пеунов Виталий.md",
-    "Чек-листы по собеседованиям/Чек-лист 2й этап Ахмедов Рамазан.md",
     "Дима Оторов тимлид.md",
-    "Кодю/readme.md",
     "files/Pasted image 20230919184135.png",
-    "Кодю/Чек-лист.md",
-    "Проект переезда PostgreSQL.md",
     "Postgresql.md",
     "Camunda BPM.md",
-    "files/Pasted image 20230917200933.png",
-    "files/Pasted image 20230917185023.png",
     "Кодю",
     "Микросервис \"Помещение\".md",
-    "Доступ к БД для сотрудников.md",
-    "Оттимизация фронтенда.md",
     "files/S.Center оптимизация фронтенда.pdf",
-    "Django Python.md",
-    "files/Pasted image 20230916224421.png",
-    "files/Pasted image 20230916224318.png",
-    "Собес/Майоров Виталий_Резюме.md",
-    "Без названия 1.md",
-    "files/Pasted image 20230914154446.png",
-    "Meetup Performace Review Хинты.md",
-    "Собес/Требования к CTO, примеры.md",
-    "Собес/Резюме.md",
-    "Собес/OKR.md",
-    "Собес/Настрой и продуктивность команды.md",
-    "Собес/Проведение интервью.md",
-    "Собес/Команда.md",
-    "Собес/Вопросы к работодателю, личные цели.md",
-    "S.Стройка/Продукты.md",
     "files/EPAM-113071294-130923-1350-204.pdf",
-    "files/Pasted image 20230913133647.png",
-    "files/Pasted image 20230913133615.png",
-    "files/Pasted image 20230913133445.png",
-    "files/Pasted image 20230913133443.png",
     "Метрики",
     "Без названия.canvas",
     "Чек-листы по собеседованиям",
