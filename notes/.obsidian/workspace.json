@@ -253,14 +253,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Красивый терминал.md",
+                "file": "Автоматизированное тестирование.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d3de51c510c5d3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "S.Стройка/S.Home презентация.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -326,7 +338,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Красивый терминал.md",
+                "file": "S.Стройка/S.Home презентация.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,7 +355,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Красивый терминал.md",
+                "file": "S.Стройка/S.Home презентация.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -366,7 +378,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Красивый терминал.md"
+                "file": "S.Стройка/S.Home презентация.md"
               }
             }
           },
@@ -397,9 +409,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "48a032e7a9019f6b",
+  "active": "8d3de51c510c5d3a",
   "lastOpenFiles": [
+    "files/S.Home Презентация.pptx",
     "Автоматизированное тестирование.md",
+    "S.Стройка/S.Home презентация.md",
     "Красивый терминал.md",
     "Собес/Майоров Виталий_Резюме.md",
     "Собес/Резюме.md",
@@ -433,9 +447,7 @@
     "Дима Оторов тимлид.md",
     "files/Pasted image 20230919184135.png",
     "Postgresql.md",
-    "Camunda BPM.md",
     "Кодю",
-    "Микросервис \"Помещение\".md",
     "files/S.Center оптимизация фронтенда.pdf",
     "files/EPAM-113071294-130923-1350-204.pdf",
     "Метрики",
