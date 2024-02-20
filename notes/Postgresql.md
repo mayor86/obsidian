@@ -1,3 +1,6 @@
+## Архитектура
+![[postgresqldba1_02_architecture.pdf]]
+
 ### Создание пользователя
 ```sql
 CREATE ROLE dblink_user WITH

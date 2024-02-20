@@ -4,275 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "7d56a40116e070e6",
+        "id": "cf93d9e5266433a8",
         "type": "tabs",
         "children": [
           {
-            "id": "1e3d74457733dcb7",
+            "id": "b38a09011c088d3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Чек-листы по собеседованиям/Чек-лист 2й этап Мамедов Эльман.md",
+                "file": "Микросервис \"Помещение\".md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "aa900676ed473f80",
+            "id": "13cd56c8acaeb1c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проект переезда PostgreSQL.md",
+                "file": "Стройка не для строителей.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7a48b5d29a842411",
+            "id": "438fa763067a6bf7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Чек-листы по собеседованиям/Чек-лист 2й этап Волков Павел.md",
+                "file": "ADR 2023-11-09 SaaS Выбор API Gateway.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4494a44b5383c9de",
+            "id": "6092d558fe3c071f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Чек-листы по собеседованиям/Чек-лист 2й этап Махмудов Мовлади.md",
+                "file": "G.Monitoring.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "da50f03be07705e9",
+            "id": "9f7b6229b6926ff2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Технологии.md",
+                "file": "ЭЦП.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4575866f4f6885e6",
+            "id": "d66b25755c32afba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Собес/Резюме.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7ef61206f4a673f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Camunda BPM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "929fb832cb30ea0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Метрики/Lead Time & Cycle Time.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc884ccdbb4da2c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Метрики/Time to Market.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dcda812efa84ad08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Метрики/DEV Metrics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "853874cd6e6ab5f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Метрики/CLS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e17a7cd50924b21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Метрики/CLS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "878a91f27e5081b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Метрики/LCP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18d8c1b3227621b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Онбординг тимлида.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32cf8c7cafdbf52a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meetup Performace Review Хинты.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2cdb14925a2af493",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Собес/Майоров Виталий_Резюме.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0675504fb59a9b59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Django Python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6ab6511990ec838",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Чек-листы по собеседованиям/Чек-лист 2й этап Мамедов Эльман.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1f238e1ccad002b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Кодю/Чек-лист.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eea6cac61f13c3cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Автоматизированное тестирование.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48a032e7a9019f6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Автоматизированное тестирование.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d3de51c510c5d3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "S.Стройка/S.Home презентация.md",
+                "file": "Swagger.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -322,7 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 200
   },
   "right": {
     "id": "aeeb40d78e965813",
@@ -338,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S.Стройка/S.Home презентация.md",
+                "file": "Стройка не для строителей.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S.Стройка/S.Home презентация.md",
+                "file": "Стройка не для строителей.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -378,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S.Стройка/S.Home презентация.md"
+                "file": "Стройка не для строителей.md"
               }
             }
           },
@@ -388,7 +196,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -409,54 +219,56 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "8d3de51c510c5d3a",
+  "active": "13cd56c8acaeb1c1",
   "lastOpenFiles": [
-    "files/S.Home Презентация.pptx",
+    "files/Pasted image 20240220183525.png",
+    "files/Pasted image 20240220183303.png",
+    "files/Pasted image 20240220183207.png",
+    "files/Pasted image 20240220183120.png",
+    "files/Pasted image 20240220183047.png",
+    "files/Pasted image 20240220183019.png",
+    "files/Pasted image 20240220182929.png",
+    "files/Pasted image 20240220173357.png",
+    "files/Pasted image 20240220173315.png",
+    "files/Pasted image 20240220173240.png",
+    "files/Pasted image 20240220173048.png",
+    "Микросервис \"Помещение\".md",
+    "Стройка не для строителей.md",
+    "РОСТ 2024.md",
+    "G.Control, S.Control - проект объединения.md",
+    "Swagger.md",
+    "ЭЦП.md",
+    "Волобуев Андрей EM.md",
+    "Собес/Команда.md",
+    "S.Control <--> G.Control.md",
+    "ADR 2023-11-09 SaaS Выбор API Gateway.md",
+    "files/168464795_680599f30fd04b66863903b997bc5b17-060224-0956-482.pdf",
+    "S.Стройка/Global.md",
+    "G.Monitoring.md",
+    "РОСТ.md",
+    "Метрики/Apdex.md",
+    "Keycloak.md",
+    "Исправляем цели.md",
+    "IaaS PaaS SaaS.md",
+    "Стратегия 2024 10D.md",
     "Автоматизированное тестирование.md",
-    "S.Стройка/S.Home презентация.md",
-    "Красивый терминал.md",
-    "Собес/Майоров Виталий_Резюме.md",
-    "Собес/Резюме.md",
-    "Удаленные услуги Roomer-Control.md",
-    "files/Pasted image 20231014204002.png",
-    "Проект переезда PostgreSQL.md",
-    "JWT.md",
-    "files/Pasted image 20231003153004.png",
-    "files/Pasted image 20231003152938.png",
-    "Чек-листы по собеседованиям/Чек-лист 2й этап Шинов Оскар.md",
-    "Чек-листы по собеседованиям/Чек-лист 2й этап Ахмедов Рамазан.md",
-    "Самолет собес.md",
-    "Собес/Вопросы к работодателю, личные цели.md",
-    "Meetup Performace Review Хинты.md",
-    "Собес/OKR.md",
-    "Без названия 2.md",
-    "Performance.md",
-    "files/Pasted image 20230928113108.png",
-    "Кодю/Чек-лист.md",
-    "Кодю/readme.md",
-    "files/Pasted image 20230925204832.png",
-    "files/Pasted image 20230925203928.png",
-    "files/Pasted image 20230925195913.png",
-    "files/Pasted image 20230925122904.png",
-    "files/Pasted image 20230925122202.png",
-    "Чек-листы по собеседованиям/Чек-лист 2й этап Мамедов Эльман.md",
-    "Чек-листы по собеседованиям/Чек-лист 2й этап Аяпберген Нурымжан.md",
-    "Чек-листы по собеседованиям/Чек-лист 2й этап Волков Павел.md",
-    "Чек-листы по собеседованиям/Чек-лист 2й этап Махмудов Мовлади.md",
-    "Чек-листы по собеседованиям/Чек-лист 2й этап Пеунов Виталий.md",
-    "Дима Оторов тимлид.md",
-    "files/Pasted image 20230919184135.png",
+    "files/DI и IoC контейнеры в Python.pdf",
+    "Архитектура/Коллекция.md",
+    "files/199481718_821cf7db28024d66ac378f2b87a759e2-230124-0939-198.pdf",
     "Postgresql.md",
-    "Кодю",
-    "files/S.Center оптимизация фронтенда.pdf",
-    "files/EPAM-113071294-130923-1350-204.pdf",
-    "Метрики",
+    "S.Стройка/Продукты.md",
+    "Планирование 2024.md",
+    "Метрики/Time to Market.md",
+    "Глобал.md",
+    "files/postgresqldba1_02_architecture.pdf",
+    "Архитектура",
+    "Redis",
+    "files/Высоконагруженные_пр.pdf",
+    "Книги",
+    "Технологии",
     "Без названия.canvas",
-    "Чек-листы по собеседованиям",
-    "Самолет 2023",
-    "files/Manager onboarding checklist — AvitoTech template.pdf",
-    "files/~$Самолет_BE_Матрица компетенции.xlsx",
-    "files/Самолет_BE_Матрица компетенции.xlsx",
-    "files/Майоров Виталий_Руководитель разработки.docx"
+    "Без названия 2.canvas",
+    "Без названия",
+    "Без названия 1.canvas"
   ]
 }

@@ -1,0 +1,1 @@
+![[Pasted image 20231219210112.png]]Yandex Cloud: передача каталога от одного Клиента к другому: https://youtu.be/u9PI_VncAd4?t=3221
